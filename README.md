@@ -19,3 +19,5 @@ Every data is stored by the same JSON format.
   - population
 - parent
 - child
+  
+Description for each item　is shown below.  
