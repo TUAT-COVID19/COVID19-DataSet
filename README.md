@@ -21,3 +21,7 @@ Every data is stored by the same JSON format.
 - child
   
 Description for each item　is shown below.  
+- positiveIncrease: today's the number of new positive cases
+- deathIncrease: today's the number of new death cases
+- hospitalizedCurrently: currently hospitalization 
+- inspection: today's the number of inspections
