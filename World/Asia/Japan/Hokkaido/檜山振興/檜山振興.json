@@ -1,0 +1,25 @@
+{
+   "data":{
+      "positiveIncrease":{
+         "date":[],
+         "data":[]
+      },
+      "deathIncrease":{
+         "date":[],
+         "data":[]
+      },
+      "hospitalizedCurrently":{
+         "date":[],
+         "data":[]
+      },
+      "inspection":{
+         "date":[],
+         "data":[]
+      },
+      "population":null
+   },
+   "parent":[
+      "Japan"
+   ],
+   "child":[]
+}
