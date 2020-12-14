@@ -25,3 +25,4 @@ Description for each item　is shown below.
 - deathIncrease: today's the number of new death cases
 - hospitalizedCurrently: currently hospitalization 
 - inspection: today's the number of inspections
+
