@@ -4,7 +4,10 @@ We have already unified that in Japan! Now, we attempt to create unified data fo
   
 Every data is stored by the same JSON format. Item "date" and "data" has values in list. 
 - data
-  - positiveIncrease
+  - positiveIncrease_release
+    - date
+    - data
+  - positiveIncrease_onset
     - date
     - data
   - deathIncrease
@@ -14,6 +17,9 @@ Every data is stored by the same JSON format. Item "date" and "data" has values 
     - date
     - data
   - inspection
+    - date
+    - data
+  - consulations
     - date
     - data
   - population
