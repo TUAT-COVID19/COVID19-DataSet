@@ -32,4 +32,8 @@ Description for each item　is shown below.
 - deathIncrease: today's the number of new death cases
 - hospitalizedCurrently: currently hospitalization 
 - inspection: today's the number of inspections
+- consultations: today's the number of consultaions to Coronavirus Consultation Center
+- population: population in the area
+- parent: list of parent directory
+- child: list of subdirectory
 
