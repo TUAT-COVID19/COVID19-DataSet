@@ -27,7 +27,8 @@ Every data is stored by the same JSON format. Item "date" and "data" has values 
 - child
   
 Description for each item　is shown below.
-- positiveIncrease: today's the number of new positive cases
+- positiveIncrease_release: today's the number of new positive cases (**reported date base**)
+- positiveIncrease_onset: today's the number of new positive cases (**onset date base**)
 - deathIncrease: today's the number of new death cases
 - hospitalizedCurrently: currently hospitalization 
 - inspection: today's the number of inspections
